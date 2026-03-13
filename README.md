@@ -8,7 +8,7 @@ Lezione 2 : Funzioni, IO files, strutture dati con csv/json/ pickle
 
 Lezione 3 : Fondamenti di programmazione a oggetti
 
-Tutto il modulo di base si baserà esclusivamente su Google Colab
+(Tutto il modulo di base si baserà esclusivamente su Google Colab)
 
 Modulo avanzato:
 Lezione 4 : Essenziali del terminale, struttura pacchetti
